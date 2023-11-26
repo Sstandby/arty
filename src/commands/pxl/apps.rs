@@ -19,7 +19,7 @@ pub async fn apps(ctx: Context<'_>) -> Result<(), Error> {
     let aseprite = r###"
 # [👑] Aseprite            
 
- **Tipo:** De 
+ **Tipo:** ¡Gratis! 
  **Plataforma:** para Windows, Mac y Linux.
  **link:** https://www.aseprite.org/download/
  
