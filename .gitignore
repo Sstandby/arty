@@ -1,4 +1,6 @@
 /target
 /src/*.exe
 /src/*.pdb
+# Secrets
 .env
+Secrets.toml
